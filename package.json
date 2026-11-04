@@ -1,0 +1,13 @@
+{
+  "name": "trencheslife-bot",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "@discordjs/voice": "^0.19.0",
+    "libsodium-wrappers": "^0.7.15"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
